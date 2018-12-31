@@ -15,3 +15,6 @@ This is a list of exercise I made for a daily exercise as I learn Vue
 
 ### exercise 5
 - Add an input to the list using Vue
+
+### exercise 6
+- Create two buttons using if state that will dissapear when clicked
